@@ -52,7 +52,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Kisielewski Krystian
 1. Koprowski Daniel
 1. Kospat Pawłowska Natalia
-1. Krampa Kamil
+1. Krampa Kamil [215567](https://salty-brook-9086.herokuapp.com/). [asi-projekt](https://github.com/kkrampa/asi-projekt).
 1. Krzyżanowski Piotr
 1. Ładosz Milena
 1. Mackiewicz Marcin
